@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T01:55:43.844Z'
-dateModified: '2016-04-14T01:55:43.074Z'
+datePublished: '2016-04-14T01:56:50.914Z'
+dateModified: '2016-04-14T01:56:50.018Z'
 title: ''
 author: []
 authors: []
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 Charmed Vision Media's 'VISION'
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82a06728-3985-402d-99a4-655accb9e1ae.jpg)
 
 To Create clear heartfelt and wise
 communications between individuals, businesses and organisations and entities in the journey
