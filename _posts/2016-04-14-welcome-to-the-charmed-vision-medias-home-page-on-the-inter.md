@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Welcome to the Charmed Vision Media's Home Page on the Internet."
-datePublished: '2016-04-14T00:42:29.485Z'
-dateModified: '2016-04-14T00:33:50.073Z'
+description: "Welcome to Charmed Vision Media's Home Page on the Internet. We provide a suite of video services designed to help you connect with your customers. \_From filming your message to editing and formatting your video's, to creating a video channel for its viewing and hosting, to ongoing management of the video channel on major platforms like YouTube and Vimeo. Whatever your need in the video space is we can help to cater to it."
+datePublished: '2016-04-14T01:13:58.629Z'
+dateModified: '2016-04-14T01:12:46.842Z'
 title: ''
 author: []
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88969cc3-958a-401e-8616-946ff8daae7e.jpg)
 
-Welcome to the Charmed Vision Media's Home Page on the Internet. We provide a suite of services designed to help you connect with your customers.  Editing and Formatting Video, Online Publishing of Video,Video Channel Creation and Management of Channels,Simply Upload RAW Video and we will do the rest for you.
+Welcome to Charmed Vision Media's Home Page on the Internet. We provide a suite of video services designed to help you connect with your customers.  From filming your message to editing and formatting your video's, to creating a video channel for its viewing and hosting, to ongoing management of the video channel on major platforms like YouTube and Vimeo. Whatever your need in the video space is we can help to cater to it.
