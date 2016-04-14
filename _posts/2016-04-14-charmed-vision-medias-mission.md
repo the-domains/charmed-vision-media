@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charmed Vision Media's Mission"
-datePublished: '2016-04-14T02:08:00.217Z'
-dateModified: '2016-04-14T02:07:08.649Z'
+datePublished: '2016-04-14T05:35:09.701Z'
+dateModified: '2016-04-14T02:08:05.268Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-charmed-vision-medias-mission.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-charmed-vision-medias-mission.md
-published: true
 url: charmed-vision-medias-mission/index.html
 _type: Article
 
