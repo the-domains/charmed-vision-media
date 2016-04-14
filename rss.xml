@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Charmed Vision Media]]></title>
         <description><![CDATA[Charmed Vision Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/charmed-vision-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 00:42:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 01:14:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charmed-vision-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88969cc3-958a-401e-8616-946ff8daae7e.jpg">]]></description>
-            <link>undefinedwelcome-to-the-charmed-vision-medias-home-page-on-the-inter/index.html</link>
+            <description><![CDATA[<p>Welcome to Charmed Vision Media's Home Page on the Internet. We provide a suite of video services designed to help you connect with your customers.  From filming your message to editing and formatting your video's, to creating a video channel for its viewing and hosting, to ongoing management of the video channel on major platforms like YouTube and Vimeo. Whatever your need in the video space is we can help to cater to it.</p>]]></description>
+            <link>https://thegrid.ai/charmed-vision-media/welcome-to-the-charmed-vision-medias-home-page-on-the-inter/index.html</link>
             <guid isPermaLink="false">c0cb8642-0003-40b6-bcbb-ea445343c102</guid>
-            <pubDate>Thu, 14 Apr 2016 00:42:29 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 01:13:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
