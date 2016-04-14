@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charmed Vision Media's 'VISION'"
-datePublished: '2016-04-14T05:35:27.140Z'
-dateModified: '2016-04-14T01:57:56.016Z'
-title: ''
+datePublished: '2016-04-14T05:39:49.739Z'
+dateModified: '2016-04-14T05:39:41.120Z'
+title: Vision
 author: []
+sourcePath: _posts/2016-04-14-charmed-vision-medias-vision.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-charmed-vision-medias-vision.md
-published: true
 url: charmed-vision-medias-vision/index.html
 _type: Article
 
