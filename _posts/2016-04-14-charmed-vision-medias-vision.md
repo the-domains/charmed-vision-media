@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-14T01:56:50.914Z'
-dateModified: '2016-04-14T01:56:50.018Z'
+description: "Charmed Vision Media's 'VISION'"
+datePublished: '2016-04-14T05:35:27.140Z'
+dateModified: '2016-04-14T01:57:56.016Z'
 title: ''
 author: []
 authors: []
@@ -28,3 +28,4 @@ To Create clear heartfelt and wise
 communications between individuals, businesses and organisations and entities in the journey
 towards a more peaceful ,
 harmonious and collaborative world that strives for upliftment of all concerned.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8cc6e0f-b400-4a39-b1b4-7655d0cde55d.jpg)
