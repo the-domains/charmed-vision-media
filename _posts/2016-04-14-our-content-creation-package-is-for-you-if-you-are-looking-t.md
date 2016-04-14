@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: i
-datePublished: '2016-04-14T06:00:24.057Z'
-dateModified: '2016-04-14T05:59:49.494Z'
+datePublished: '2016-04-14T06:01:40.338Z'
+dateModified: '2016-04-14T06:00:35.947Z'
 title: Video Content Creation Package
 author: []
 sourcePath: _posts/2016-04-14-our-content-creation-package-is-for-you-if-you-are-looking-t.md
