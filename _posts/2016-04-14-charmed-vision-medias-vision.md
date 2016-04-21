@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charmed Vision Media's 'VISION'"
-datePublished: '2016-04-21T05:23:29.460Z'
-dateModified: '2016-04-14T05:39:59.782Z'
-title: Vision
+datePublished: '2016-04-21T05:51:14.545Z'
+dateModified: '2016-04-21T05:50:37.663Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-14-charmed-vision-medias-vision.md
 published: true
@@ -24,8 +24,5 @@ _type: Article
 ---
 Charmed Vision Media's 'VISION'
 
-To Create clear heartfelt and wise
-communications between individuals, businesses and organisations and entities in the journey
-towards a more peaceful ,
-harmonious and collaborative world that strives for upliftment of all concerned.
+To Create clear heartfelt and wise communications between individuals, businesses and organisations and entities in the journey towards a more peaceful , harmonious and collaborative world that strives for upliftment of all concerned.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8cc6e0f-b400-4a39-b1b4-7655d0cde55d.jpg)
