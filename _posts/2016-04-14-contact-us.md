@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Charmed Vision Media can be contact by emailing us at design@charmedvisionmedia.com or by phoning us at +61 0478 130 478. You can write to us at PO Box 182, Richmond VIC 3121. If you would like to visit us, we are located at Suite 6 / 8 Bromham Place Richmond VIC 3121. If you plan on visiting us, please arrange an appointment by contacting Lauren on her email lauren.young@charmedvisionmedia.com or mobile 0434 790 897, and she will setup an appointment with '
-datePublished: '2016-04-21T05:46:34.545Z'
-dateModified: '2016-04-21T05:45:35.592Z'
+datePublished: '2016-04-21T05:46:49.148Z'
+dateModified: '2016-04-21T05:46:43.177Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-contact-us.md
