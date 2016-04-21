@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charmed Vision Media's 'VISION'"
-datePublished: '2016-04-14T05:39:49.739Z'
-dateModified: '2016-04-14T05:39:41.120Z'
+datePublished: '2016-04-21T05:23:29.460Z'
+dateModified: '2016-04-14T05:39:59.782Z'
 title: Vision
 author: []
 sourcePath: _posts/2016-04-14-charmed-vision-medias-vision.md
