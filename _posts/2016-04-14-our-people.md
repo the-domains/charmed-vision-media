@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Charmed Vision Media's Founder Harsha is deeply passionate about film and acting since a very young age. He however had a natural flare for technology and started his career in information technology. He is now applying is foundation in IT and combining this with his passion to provide direction and leadership for Charmed Vision Media."
-datePublished: '2016-04-16T12:32:48.185Z'
-dateModified: '2016-04-14T05:40:19.172Z'
+datePublished: '2016-04-21T05:23:11.781Z'
+dateModified: '2016-04-21T05:23:11.024Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-our-people.md
