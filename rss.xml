@@ -4,7 +4,7 @@
         <description><![CDATA[Charmed Vision Media]]></description>
         <link>https://thegrid.ai/charmed-vision-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 05:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 05:52:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charmed-vision-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Payments]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/charmed-vision-media/welcome-to-the-charmed-vision-medias-home-page-on-the-inter/index.html</link>
             <guid isPermaLink="false">c0cb8642-0003-40b6-bcbb-ea445343c102</guid>
             <pubDate>Thu, 21 Apr 2016 05:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mission]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c3589ed-2cb8-448b-beca-2a06409c82ac.jpg">]]></description>
+            <link>https://thegrid.ai/charmed-vision-media/charmed-vision-medias-mission/index.html</link>
+            <guid isPermaLink="false">5e49cca4-ba4b-436a-958f-bd7385787e9d</guid>
+            <pubDate>Thu, 21 Apr 2016 05:52:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vision]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/charmed-vision-media/our-content-creation-package-is-for-you-if-you-are-looking-t/index.html</link>
             <guid isPermaLink="false">ab3b4e8e-21c8-4167-a658-89b51648a7dc</guid>
             <pubDate>Thu, 21 Apr 2016 05:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Charmed Vision Media's Mission</p>]]></description>
-            <link>https://thegrid.ai/charmed-vision-media/charmed-vision-medias-mission/index.html</link>
-            <guid isPermaLink="false">5e49cca4-ba4b-436a-958f-bd7385787e9d</guid>
-            <pubDate>Thu, 21 Apr 2016 05:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
