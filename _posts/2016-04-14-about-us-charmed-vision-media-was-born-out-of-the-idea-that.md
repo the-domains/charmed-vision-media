@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: About Us Charmed Vision Media was born out of the idea that we are at the essence of life emotional creatures and looking to connect with one another on a heart basis. Most of the modern life revolves around a strong logical basis. Charmed Vision Media is about bringing a balance to that and providing products and services that allow you to show the truly human side of your business and showcase it in all its strength and glory.
-datePublished: '2016-04-21T04:53:06.002Z'
-dateModified: '2016-04-21T04:53:05.262Z'
+datePublished: '2016-04-21T05:47:06.935Z'
+dateModified: '2016-04-21T05:46:29.649Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-about-us-charmed-vision-media-was-born-out-of-the-idea-that.md
