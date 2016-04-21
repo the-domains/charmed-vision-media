@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Our Purpose Package is designed to provide you with the flexibility to capture a single event or feature within your organisation. Each video created is 10 – 15 minutes in length. Multiple takes are included per video created. Up to 100 minutes included in each filming, within the multiple takes. Up to 10 videos are included in the package. Video’s are edited and uploaded to YouTube within 21 business days of \n\nfilming. Video’s are filmed at the your business premises or location of \n\nchoice that is made available by you. \_15 - 20 seconds of voiceover to introduce your product or service \n\nis included for each video and will be provided by you. As an option a watermark can be placed on each video and the watermark image will be \n\nprovided by you. A transcript of video is placed on YouTube description along with \n\ndescription of business, where you provide the description of business. This package is priced per assignment and you will need to discuss your particular needs with us to provide a quote for the work. We will provide prior planning and preparation support is to determine your needs."
-datePublished: '2016-04-14T05:32:37.062Z'
-dateModified: '2016-04-14T05:32:36.168Z'
-title: ''
+datePublished: '2016-04-21T05:42:53.576Z'
+dateModified: '2016-04-14T05:37:00.832Z'
+title: Purpose Video Package
 author: []
 sourcePath: _posts/2016-04-14-our-purpose-package-is-designed-to-provide-you-with-the-flex.md
 published: true
